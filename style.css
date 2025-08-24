@@ -97,7 +97,8 @@ body {
 }
 
 .hero-left h1 span {
-  color: #a5a488;
+/*   color: #a5a488; */
+  color:#000080;
 }
 
 .buttons {
@@ -529,3 +530,4 @@ body {
     width: 100%;
   }
 }
+
