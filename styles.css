@@ -288,7 +288,11 @@ body {
   background-color: #f9f9f9;
   text-align: center;
 }
-
+.project-section h2{
+  ont-size: clamp(2rem, 5vw, 2.5rem);
+  margin-bottom: 40px;
+  font-weight: 700;
+}
 .projects-grid {
   display: flex;
   gap: 30px;
@@ -543,4 +547,5 @@ body {
     width: 100%;
   }
 }
+
 
